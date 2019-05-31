@@ -2,15 +2,15 @@
 layout: pytorch_hub_detail
 background-class: pytorch-hub-background
 body-class: pytorch-hub
-category: researchers
 title: Progressive Growing of GAN (PGAN)
 summary: An implementation of NVIDIA's method for generating HD images with GAN: https://arxiv.org/abs/1710.10196
+category: researchers
 image: pytorch-logo.png
 author: FAIR HDGAN
-tags: [GAN, Computer vision, HD, Celeba, CelebaHQ]
+tags: [GAN, Vision, HD, Celeba, CelebaHQ]
 github-link: https://github.com/facebookresearch/pytorch_GAN_zoo
-featured_image_1: images/pgan_mix.jpg
-featured_image_2: images/pgan_celebaHQ.jpg
+featured_image_1: pgan_mix.jpg
+featured_image_2: pgan_celebaHQ.jpg
 ---
 
 <!-- REQUIRED: detailed model description below, in markdown format, feel free to add new sections as necessary -->
@@ -25,7 +25,7 @@ Progressive Growing of GAN is a method developed by NVIDIA in 2017 allowing to g
 
 In order to load and use a model trained on CelebaHQ:
 
-```
+```python
 import torch
   import scipy.misc
   import numpy as np
