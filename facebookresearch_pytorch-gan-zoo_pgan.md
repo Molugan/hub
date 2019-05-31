@@ -3,7 +3,6 @@ layout: pytorch_hub_detail
 background-class: pytorch-hub-background
 body-class: pytorch-hub
 category: researchers
-<!-- Only change fields below -->
 title: Progressive Growing of GAN (PGAN)
 summary: An implementation of NVIDIA's method for generating HD images with GAN: https://arxiv.org/abs/1710.10196
 image: pytorch-logo.png
@@ -13,6 +12,7 @@ github-link: https://github.com/facebookresearch/pytorch_GAN_zoo
 featured_image_1: images/pgan_mix.jpg
 featured_image_2: images/pgan_celebaHQ.jpg
 ---
+
 <!-- REQUIRED: detailed model description below, in markdown format, feel free to add new sections as necessary -->
 ### Model Description
 
