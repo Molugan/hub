@@ -9,8 +9,8 @@ image: pytorch-logo.png
 author: FAIR HDGAN
 tags: [GAN, Vision, HD, Celeba, CelebaHQ]
 github-link: https://github.com/facebookresearch/pytorch_GAN_zoo
-featured_image_1: pgan_mix.jpg
-featured_image_2: pgan_celebaHQ.jpg
+featured_image_1: alexnet1.png
+featured_image_2: alexnet1.png
 ---
 
 <!-- REQUIRED: detailed model description below, in markdown format, feel free to add new sections as necessary -->
